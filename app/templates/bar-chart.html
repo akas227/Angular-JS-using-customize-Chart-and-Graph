@@ -1,0 +1,16 @@
+<div class="container-fluid">
+    <div class="title7 bottom-margin" ng-controller="BarCtrl">
+        <h4>{{bar}}</h4>
+        <div class="symbols">
+            <span class="glyphicon glyphicon-trash"></span>
+            <span class="glyphicon glyphicon-download-alt"></span>
+            <span class="glyphicon glyphicon-cog"></span>
+        </div>
+        <hr class="horizontal-line" />
+
+        <div class="graph">
+            <canvas id="bar" class="chart chart-bar" chart-data="data" chart-labels="labels" chart-series="series">
+            </canvas>
+        </div>
+    </div>
+</div>

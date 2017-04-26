@@ -1,0 +1,18 @@
+<div class="col-md-6 col-sm-6 col-xs-12">
+    <div class="title7" ng-controller="PieCtrl">
+        <h4>{{pie}}</h4>
+
+        <div class="symbols">
+            <span class="glyphicon glyphicon-trash"></span>
+            <span class="glyphicon glyphicon-download-alt"></span>
+            <span class="glyphicon glyphicon-cog"></span>
+        </div>
+
+        <hr class="horizontal-line" />
+
+        <div class="pie-chart">
+            <canvas id="pie" class="chart chart-pie" chart-options="options" chart-data="data" chart-labels="labels">
+            </canvas>
+        </div>
+    </div>
+</div>
