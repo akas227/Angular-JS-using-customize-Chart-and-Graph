@@ -7,3 +7,7 @@ Simple attractive Responsive UI with the help of Angular JS and also using custo
 => Set Angular Structure (controller, angular template) <br/>
 => Display chart(Bar-Chart, Pie-Chart, PolarArea-Chart) using Angular Templates for reuse in whole application <br/>
 => Use Angular chart and customize according to requirements
+
+=> Check below screen shot of application 
+
+<img src="https://github.com/akas227/Angular-JS-using-customize-Chart-and-Graph/blob/master/chart.png" alt="chart" />
