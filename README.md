@@ -10,4 +10,4 @@ Simple attractive Responsive UI with the help of Angular JS and also using custo
 
 => Check below screen shot of application 
 
-<img src="https://github.com/akas227/Angular-JS-using-customize-Chart-and-Graph/blob/master/chart.png" alt="chart" />
+<img src="https://github.com/akas227/Angular-JS-using-customize-Chart-and-Graph/blob/master/chart.png" height="500" alt="chart" />
